@@ -16,3 +16,6 @@ describe('normalisereVærdi', () => {
     expect(() => normalizeValue({})).toThrow(TypeError)
   })
 })
+
+
+
